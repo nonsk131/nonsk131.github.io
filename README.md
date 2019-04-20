@@ -1,2 +1,1 @@
-# Nondh Panithanpaisal
-![thumbnail](usa-visa.jpg)
+# my website
