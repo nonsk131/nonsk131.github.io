@@ -1,7 +1,4 @@
-
-<p align="center">
 ![](mypic.jpg)
-<\p>
 ## About Me
 I am currently a second year PhD student in the Department of Physics and Astronomy at the University of Pennsylvania.
 I received my bachelor's degree with high honors (*magna cum laude*) in physics from Princeton University in 2018.\
