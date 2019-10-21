@@ -4,4 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-This page is where I will talk about my current and past research.
+### **Properties of Stellar Streams' Progenitors (Panithanpaisal *et al.* in prep.)**
+We study properties and statistics of stellar streams' progenitors in FIRE-2
+cosmological simulations.
+
+#### *how to pick out stellar streams*
+We found that phase-mixed objects can be effectively ruled out based on their
+local velocity dispersion.
