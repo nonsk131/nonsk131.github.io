@@ -21,11 +21,11 @@
 title: Nondh Panithanpaisal
 email: nondh@sas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a personal webpage
+  Nondh Panithanpaisal's personal webpage.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username: nondh-panithanpaisal-916b40128
+github_username:  nonsk131
 
 # Build settings
 theme: minima
