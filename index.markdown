@@ -5,10 +5,7 @@
 layout: home
 ---
 
-![my picture!]({{ site.baseurl }}/assets/pic1.jpg)
-
-{{site.url}}/assets/pic1.jpg
-{{site.baseurl}}/assets/pic1.jpg
+![my picture!]({{ site.url }}/assets/pic1.jpg)
 
 My name is **Nondh Panithanpaisal**. I am currently a second year PhD student in the Department of Physics and Astronomy at the University of Pennsylvania. My research interest is astrophysics and cosmology, especially computational astrophysics. I am working under the supervision of professor Robyn Sanderson.    
 
