@@ -21,7 +21,7 @@
 title: Nondh Panithanpaisal
 email: nondh@sas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Nondh Panithanpaisal's personal webpage.
+  Nondh Panithanpaisal's personal webpage. The website is still under development
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: nondh-panithanpaisal-916b40128
@@ -31,6 +31,7 @@ github_username:  nonsk131
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -40,8 +41,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - _posts/
+#exclude:
+#  - _posts/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
