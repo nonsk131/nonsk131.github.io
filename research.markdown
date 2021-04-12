@@ -11,8 +11,7 @@ Stellar streams have been a promising tool to study the structures and accretion
 We study and try to characterize progenitors of tidal streams in [FIRE-2 cosmological simulations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480..800H/abstract).
 
 #### *how to pick out stellar streams*
-![classification](/assets/assets/stream_local_vel_dispersion.png)
-![my picture!]({{ site.url }}/assets/pic_me.jpg)
+![classification](/assets/stream_local_vel_dispersion.png)
 We identify stream candidates by picking out objects that are bound between 2.7 to 6.5 Gyr ago and are within present day's virial radius of the host. Then, these candidates are classified into 3 catagories: satellite, phase-mixed object and stream. Satellites are ruled out by their compact sizes. We rule out phase-mixed objects by a criterion on the local velocity dispersion shown in the plot as a black dashed line where sample objects that were classified by eye as phase-mixed and stream are plotted in orange and blue, respectively.
 
 #### *key results*
