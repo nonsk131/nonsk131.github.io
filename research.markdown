@@ -7,7 +7,7 @@ Stellar streams have been a promising tool to study the structures and accretion
 
 ### **The Galaxy Progenitors of Stellar Streams around MW-mass Galaxies in the FIRE cosmological simulations**
 
-We study and try to characterize progenitors of tidal streams in [FIRE-2 cosmological simulations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480..800H/abstract).
+We study and try to characterize progenitors of tidal streams in [FIRE-2 cosmological simulations](https://fire.northwestern.edu).
 
 #### *how to pick out stellar streams*
 ![classification](/assets/stream_local_vel_dispersion.png)
@@ -21,6 +21,6 @@ We identify stream candidates by picking out objects that are bound between 2.7 
 5. Orbital-phase-dependent fluctuations complicate using the velocity dispersion to estimate the mass of a stream progenitor.
 
 ### **Unwrapping Streams in Realistic MW Potential**
-Canonical transformation allows us to be able to represent stellar streams in action-angle coordinates. Stream members are expected to cluster in action space (see Wu et al. including Panithanpaisal for the degree of clustering and how well we can recover streams in this dataset in action space). Moreover, we confirmed that these simulated streams also appear as line overdensities in angle space, eventhough these streams evolve under time-dependent, non-axisymmetric potential. Using this fact, we are able to disentangle streams that have multiple wraps to get exact phase for each star particle. 
+Canonical transformation allows us to be able to represent stellar streams in action-angle coordinates. Stream members are expected to cluster in action space (see Wu et al. including Panithanpaisal for the degree of clustering and how well we can recover streams in this dataset in action space). Moreover, we confirmed that these simulated streams also appear as line overdensities in angle space, eventhough these streams evolve under time-dependent, non-axisymmetric potential. Using this fact, we are able to disentangle streams that have multiple wraps to get exact phase for each star particle.
 ![angle_space](/assets/one_stream_hough_transform.png)
 ![unwrap](/assets/one_stream_unwrap_angle.png)
