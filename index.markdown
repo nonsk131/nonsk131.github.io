@@ -11,7 +11,7 @@ Hi, everyone! My name is **Nondh Panithanpaisal (นนท์ ปณิธาน
 
 I grew up in Bangkok, Thailand. When I am not working, I enjoy traveling, stargazing, learning new languages and watching Japanese anime. The languages that I speak (from best to worst) are ภาษาไทย, English, 中文 and 日本語.
 
-Here is my CV. [curriculum vitae](https://drive.google.com/file/d/1XLx2oAX1_nC3qNEhsuQg7pb8NTNIY6b2/view?usp=sharing)
+Here is my [curriculum vitae](/assets/NondhPanithanpaisalCV.pdf)
 
 
 ## Contact
