@@ -7,11 +7,11 @@ layout: home
 
 ![my picture!]({{ site.url }}/assets/pic_me.jpg)
 
-My name is **Nondh Panithanpaisal (นนท์ ปณิธานไพศาล)**. I am currently a second year PhD student in the Department of Physics and Astronomy at the University of Pennsylvania. My research interests are in the areas of astrophysics and cosmology, especially computational astrophysics. I am working under the supervision of professor [Robyn Sanderson](https://www.physics.upenn.edu/index.php/people/standing-faculty/robyn-sanderson).    
+Hi, everyone! My name is **Nondh Panithanpaisal (นนท์ ปณิธานไพศาล)**. I am currently a third year PhD student in the Department of Physics and Astronomy at the University of Pennsylvania. My research interests are in the areas of astrophysics and cosmology, especially computational astrophysics. I am working under the supervision of professor [Robyn Sanderson](https://www.physics.upenn.edu/index.php/people/standing-faculty/robyn-sanderson). We are learning about stellar streams, their progenitors, and ultimately how to use them to detect low-mass, dark subhalos that are predicted to exist in the Milky Way.    
 
-I grew up in Bangkok, Thailand, where I did my secondary school (grade 7 to 12) at โรงเรียนสวนกุหลาบวิทยาลัย. I have been interested in astronomy, so stargazing is one of my hobbies. Throughout high school, I participated in astronomy and astrophysics olympiad, where I won 1 gold medal and 1 silver medal from the International Olympiad on Astronomy and Astrophysics, and won 1 silver medal from the International Astronomy Olympiad.  
+I grew up in Bangkok, Thailand. When I am not working, I enjoy traveling, star gazing, learning new languages and watching Japanese anime.
 
-[curriculum vitae](https://www.dropbox.com/s/d958eahmh6yy5qa/cv.pdf?dl=0) 
+[curriculum vitae](https://drive.google.com/file/d/1XLx2oAX1_nC3qNEhsuQg7pb8NTNIY6b2/view?usp=sharing)
 
 
 ## Contact
