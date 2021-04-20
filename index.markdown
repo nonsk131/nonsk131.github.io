@@ -16,4 +16,4 @@ Here is my [curriculum vitae](/assets/NondhPanithanpaisalCV.pdf).
 
 ## Contact
 **E-mail**: <nondh@sas.upenn.edu>  
-**Office address**: Room 2E4, David Rittenhouse Laboratory, 209 S 33rd St, Philadelphia, PA 19104
+**Office address**: David Rittenhouse Laboratory, 209 S 33rd St, Philadelphia, PA 19104
