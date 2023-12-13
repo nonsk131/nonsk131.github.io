@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nondh Panithanpaisal
-email: nondh@sas.upenn.edu
+email: npanithanpaisal@carnegiescience.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Nondh Panithanpaisal's personal webpage.
 baseurl: "" # the subpath of your site, e.g. /blog
