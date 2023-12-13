@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![my picture!]({{ site.url }}/assets/nondh_panithanpaisal_portrait_website)
+![my picture!]({{ site.url }}/assets/nondh_panithanpaisal_portrait_website.jpg)
 
 Hi, everyone! I am **Nondh Panithanpaisal (นนท์ ปณิธานไพศาล)**, a Carnegie-Caltech Joint Postdoctoral Fellow in Theoretical Astrophysics. Currently, I work under the guidance of Dr. [Ana Bonana](https://obs.carnegiescience.edu/dr-ana-bonaca-0) (Carnegie Observatories), Prof. [Phil Hopkins](https://pma.caltech.edu/people/philip-f-hopkins) (Caltech), and Prof. [Robyn Sanderson](https://www.physics.upenn.edu/index.php/people/standing-faculty/robyn-sanderson) (UPenn). Feel free to click on the [Research]({{ site.url }}/research) tab to learn more about my past and ongoing research (last updated: 2021) and the [Data Release]({{ site.url }}/data_release) tab to access publicly available data (last updated: 2021).
 
